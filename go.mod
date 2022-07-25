@@ -8,7 +8,7 @@ require (
 	github.com/golang/protobuf v1.5.2
 	github.com/google/go-cmp v0.5.6
 	github.com/gorilla/websocket v1.4.2
-	github.com/lucas-clemente/quic-go v0.24.0
+	github.com/lucas-clemente/quic-go v0.28.1
 	github.com/miekg/dns v1.1.43
 	github.com/pelletier/go-toml v1.9.4
 	github.com/pires/go-proxyproto v0.6.1
@@ -19,9 +19,9 @@ require (
 	github.com/xtls/go v0.0.0-20210920065950-d4af136d3672
 	go.starlark.net v0.0.0-20211013185944-b0039bd2cfe3
 	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
-	golang.org/x/net v0.0.0-20211020060615-d418f374d309
+	golang.org/x/net v0.0.0-20220624214902-1bab6f366d9e
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
-	golang.org/x/sys v0.0.0-20211020064051-0ec99a608a1b
+	golang.org/x/sys v0.0.0-20220520151302-bc2c85ada10a
 	google.golang.org/grpc v1.42.0
 	google.golang.org/protobuf v1.27.1
 	h12.io/socks v1.0.3
@@ -33,8 +33,10 @@ require (
 	github.com/dgryski/go-metro v0.0.0-20211015221634-2661b20a2446 // indirect
 	github.com/fsnotify/fsnotify v1.5.1 // indirect
 	github.com/go-task/slim-sprig v0.0.0-20210107165309-348f09dbbbc0 // indirect
-	github.com/marten-seemann/qtls-go1-16 v0.1.4 // indirect
-	github.com/marten-seemann/qtls-go1-17 v0.1.0 // indirect
+	github.com/marten-seemann/qtls-go1-16 v0.1.5 // indirect
+	github.com/marten-seemann/qtls-go1-17 v0.1.2 // indirect
+	github.com/marten-seemann/qtls-go1-18 v0.1.2 // indirect
+	github.com/marten-seemann/qtls-go1-19 v0.1.0-beta.1 // indirect
 	github.com/nxadm/tail v1.4.8 // indirect
 	github.com/onsi/ginkgo v1.16.5 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
